@@ -1,2 +1,2 @@
-class SecretsControllerController < ApplicationController
+class SecretsController < ApplicationController
 end
